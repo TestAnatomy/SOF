@@ -1,4 +1,8 @@
 # SOF
-Screenshot Overlay Frame
 
-Base loop for a screenshot overlay
+### Small Square overlay with anchor for grabbing / saving small images
+
+Requirements:
+
+ - PySimpleGUI
+ - pyautogui
